@@ -26,7 +26,7 @@ This web application was developed as a solution for managing **employee attenda
 - Login interface
   ![Login](assets/login.png)
 - Pegawai interface
-  ![Absen Pegawai](assets/absensi_pegawai_(pegawai).png)
+  ![Absen Pegawai](assets/absensi%20pegawai%20(pegawai).png)
 
 ---
 
