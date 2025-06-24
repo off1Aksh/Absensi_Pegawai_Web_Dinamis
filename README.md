@@ -62,9 +62,6 @@ This attendance web system allows employees to record their working hours secure
 ## 👨‍🎓 Project Information
 
 - **Student:** Akasha Bin Ali  
-- **ID:** 4.33.22.0.01  
-- **Class:** TI - 2A  
-- **Lecturer:** Wiktasari, S.T., M.Kom.  
 - **Course:** Dynamic Web Programming  
 - **Institution:** Politeknik Negeri Semarang  
 - **Department:** Electrical Engineering
