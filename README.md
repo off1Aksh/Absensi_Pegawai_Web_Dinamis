@@ -25,6 +25,8 @@ This web application was developed as a solution for managing **employee attenda
 ## 🧑‍💼 Screenshots
 - Login interface
   ![Entity Relationship Diagram](assets/login.png)
+- Pegawai interface
+  ![Entity Relationship Diagram](assets/absensi pegawai (pegawai).png)
 
 ---
 
