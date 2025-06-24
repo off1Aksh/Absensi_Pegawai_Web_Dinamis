@@ -35,7 +35,7 @@ This web application was developed as a solution for managing **employee attenda
  - Edit Pegawai
    ![Absen Pegawai](assets/edit%20pegawai.png)
  - Delete Pegawai
-   ![Absen Pegawai](assets/hapus%pegawai.png)
+   ![Absen Pegawai](assets/hapus%20pegawai.png)
  - Add Pegawai
    ![Absen Pegawai](assets/tambah%20pegawai.png)
  - List Role
