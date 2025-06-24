@@ -23,11 +23,28 @@ This web application was developed as a solution for managing **employee attenda
 - View and edit employee profiles
 
 ## 🧑‍💼 Screenshots
-- Login interface
+### Login interface
   ![Login](assets/login.png)
-- Pegawai interface
+### Pegawai interface
   ![Absen Pegawai](assets/absensi%20pegawai%20(pegawai).png)
-
+### Admin interface 
+ - Pegawai Data
+   ![Absen Pegawai](assets/absensi%20pegawai%20(pegawai).png)
+ - Pegawai Profile
+   ![Absen Pegawai](assets/absensi%20pegawai%20(pegawai).png)
+ - Edit Pegawai
+   ![Absen Pegawai](assets/absensi%20pegawai%20(pegawai).png)
+ - Delete Pegawai
+   ![Absen Pegawai](assets/absensi%20pegawai%20(pegawai).png)
+ - Add Pegawai
+   ![Absen Pegawai](assets/absensi%20pegawai%20(pegawai).png)
+ - List Role
+   ![Absen Pegawai](assets/absensi%20pegawai%20(pegawai).png)
+ - Add/Delete Role
+   ![Absen Pegawai](assets/absensi%20pegawai%20(pegawai).png)
+### ERD
+ - ![ERD](assets/erd.png)
+ 
 ---
 
 ## 🗃️ Database Design
